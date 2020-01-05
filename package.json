@@ -1,5 +1,8 @@
 {
   "name": "ruby-releases-history",
   "version": "1.0.0",
-  "description": "ruby-releases-history"
+  "description": "ruby-releases-history",
+  "dependencies": {
+    "mdline": "^1.0.2"
+  }
 }
