@@ -1,0 +1,3 @@
+[build]
+  publish = 'public/'
+  command = 'mkdir public; mdline ruby-releases.md -o public/index.html'
