@@ -7,3 +7,10 @@ Ruby Releases History generated using [mdline](https://github.com/azu/mdline) ğŸ
 - [https://ruby-releases-history.netlify.com](https://ruby-releases-history.netlify.com/)
 
 ![](images/demo.png)
+
+## Manual Build
+
+```sh
+$ mkdir public
+$ mdline ruby-releases.md -o public/index.html
+```
